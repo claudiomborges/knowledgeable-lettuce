@@ -2,7 +2,7 @@
 title: New post!
 subtitle: This is a test
 date: 2019-11-04T20:38:25.996Z
-thumb_img_path: /images/jane_roe.jpg
+thumb_img_path: /images/10.jpg
 template: post
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id posuere urna. Aliquam et nisl convallis, venenatis quam id, malesuada dui. Nullam ac dui rhoncus, auctor nibh in, condimentum lectus. Sed volutpat non tortor vitae aliquet. Praesent fermentum mi sagittis ultrices congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non nunc id augue rutrum malesuada cursus tempus tortor. Vivamus eros felis, sodales interdum lorem id, gravida ullamcorper urna.
